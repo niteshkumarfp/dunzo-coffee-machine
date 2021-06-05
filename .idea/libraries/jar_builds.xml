@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jar_builds">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar_builds/coffee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_builds/coffee_test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
